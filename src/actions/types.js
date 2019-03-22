@@ -1,0 +1,16 @@
+export const USER_LOGIN_SUCCESS = 'User login success';
+export const AUTH_REGISTER_SUCCESS = 'Auth register success';
+export const AUTH_SYSTEM_ERROR = 'Auth system error';
+export const AUTH_LOGIN_ERROR = 'Auth login error';
+export const AUTH_REGISTER_ERROR = 'Auth register error';
+export const AUTH_LOADING = 'Auth loading';
+export const LOGOUT = 'Logout';
+export const COOKIE_CHECKED = 'Cookie checked';
+export const SELECTED_CATEGORY = 'Selected Category'
+export const SELECTED_PRODUCT = 'Selected product';
+export const ACTIVITY_LOG_SUCCESS = 'Activity log success';
+export const ACTIVITY_LOG_ERROR = 'Activity log error';
+export const CONVERT_TO_RUPIAH = 'Convert to rupiah';
+export const SORTING_JSON = 'Sorting JSON';
+export const CONVERT_DATE = 'Convert date';
+export const SIDE_BAR_MENU = 'Side bar menu';
